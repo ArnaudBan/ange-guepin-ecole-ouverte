@@ -12,6 +12,7 @@ layout: "base.html"
       <a href='{{post.url}}' class="blog-single">
         <p class="title">{{ post.data.title }}</p>
 
+        <p><time datetime="{{ post.date }}">{{ post.date | postDate }}</time></p>
         <p class="description">{{ post.data.description }}</p>
       </a>
     {% endfor %}
