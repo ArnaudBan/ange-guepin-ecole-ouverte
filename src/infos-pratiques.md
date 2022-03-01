@@ -18,23 +18,32 @@ Ecole Publique Freinet Ange Guépin
 ## contacts
 
 Ecole ce.0441695d@ac-nantes.fr
+
 Concierge Emil (0659328103 ?)
-Périscolaire directrice Françoise (0679386186 ?) nantes.ange.guepin@leolagrange.org
+
+Périscolaire directrice Françoise (0679386186 ?) 
+
+nantes.ange.guepin@leolagrange.org
+
 Parents Elu.e.s parents.elus.angeguepin@gmail.com
 
-Équipe Pédagogique :
+### Équipe Pédagogique :
 
-Cycle 2 :
-Reno et Yasmine CP-CE1
-Sophie et Yasmine CP-CE1
-Emma CE2
+#### Cycle 2 :
 
-Cycle 3 :
-Nathalie CM1-CM2
-Périne CM1-CM2
+* Reno et Yasmine CP-CE1
+* Sophie et Yasmine CP-CE1
+* Emma CE2
+
+#### Cycle 3 :
+
+* Nathalie CM1-CM2
+* Périne CM1-CM2
 
 ## horaires école
+
 Lundis-Mardis-Jeudis-Vendredis 8h30-12h / 13h55-16h00
+
 Mercredis 8h50-12h
 
 ## horaires périscolaire
@@ -55,9 +64,9 @@ Beaucoup d'enfants viennent avec leur propre vélo, accompagnés ou seuls à par
           
 Des parents s'organisent aussi en co-trajets (transports en commun, vélo ou voiture).
           
-https://drive.google.com/file/d/1-bw8LVHemnTpzr5gGJksIYMBiwiuhG2B/view
-          
-https://drive.google.com/file/d/1hMan3lEejmCLbdhhjRF7SdUVa-KE9NZw/view
+![Velobus](/medias/velubus.jpg)  
+
+![Range vélis](/medias/range-velos.jpg)
  
 * Je ne suis pas un artiste, puis-je participer à la semaine des arts ?
           

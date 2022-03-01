@@ -66,6 +66,9 @@ body {
       text-decoration: none; }
       body main a:hover {
         text-decoration: underline; }
+  body img {
+    max-width: 100%;
+    height: auto; }
   body .article-wrapper {
     width: 50%;
     margin-left: auto;
@@ -112,7 +115,7 @@ body {
       text-decoration: none; }
       body footer a:hover {
         text-decoration: underline; }
-  body p {
+  body p, body ul {
     line-height: 1.5rem; }
   body .text-lg {
     font-size: 1.125rem;

@@ -113,6 +113,11 @@ body {
     }
   }
 
+  img{
+    max-width: 100%;
+    height: auto;
+  }
+
   .article-wrapper {
     width: 50%;
     margin-left: auto;
@@ -186,7 +191,7 @@ body {
     }
   }
 
-  p {
+  p, ul {
     line-height: 1.5rem;
   }
 
