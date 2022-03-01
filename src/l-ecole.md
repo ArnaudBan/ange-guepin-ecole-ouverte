@@ -54,7 +54,7 @@ Cependant, cet idéal se confronte à des limites concrètes comme le nombre d�
 
 Au quotidien, nous faisons également un véritable travail d'équipe avec tous les personnels de l’école, et ce pour plus de cohérence sur tous les temps de présence à l’école que ce soit le temps scolaire ou périscolaire.
 
-https://drive.google.com/file/d/1PJecho4QUwCbmvVkCRUK3rJVxl02uZHg/view
+![Enfants au tableau](/medias/enfants-au-tableau.jpg)
 
 ### Une école ouverte
 Comme dans toute école, l’implication des parents aux côtés des enseignants est essentielle pour amener l’enfant vers son émancipation.
@@ -68,7 +68,7 @@ Les semaines à thèmes s'organisent pendant une semaine sur le temps du matin.
 * Semaine citoyenne
 * Semaine des arts : les ateliers sont proposés par les parents, amis, famille et ils sont illustrés dans le "journal de la semaine des arts". Ils font également l'objet d'une exposition des productions réalisées.
 
-https://drive.google.com/file/d/1D-yNrMmoJLE6WDnMuWpRSdlomIJqZnbm/view
+![Restitution de la semaine des arts](/medias/semaine-des-arts-restitution.jpg)
 
 Exemple en 2021 : marionnettes, théâtre d'improvisation, construction d'un finger skatepark en bois, dessin,  musique du monde, percussions, tissage  et attrape-rêves, art floral, calligraphie, cadavre exquis, gravure, pop art, mosaïque
 
@@ -84,9 +84,11 @@ Ces présentations donnent du sens aux créations faites en classe et permettent
 
 Les Super ! sont organisés une fois par mois, le mercredi de 11h à 11h45 (arrivée des parents entre 10h30 et 10h45).
 
-https://drive.google.com/file/d/1Glp5Lw2o3gz6HesT8EHe_l1vWSFGg27W/view
-https://drive.google.com/file/d/1CsVOyzw0MmauJxkb8GQxI3xPZwv9aOb6/view
-https://drive.google.com/file/d/1db05zreTCua8YrrO4lpC-6G6cIjZlmrh/view
+![Salle poly avant super](/medias/salle-poly-avant-super-3.jpg)
+
+![Salle poly avant super 2](/medias/salle-poly-avant-super-2.jpg)
+
+![Tableau super](/medias/tableau-super.jpg)
 
 ### Conférence
 
@@ -104,30 +106,30 @@ Les parents (ou adultes souhaitant s'impliquer dans l'école) peuvent aider un p
 ### conseil des délégués
 
 ### la coopérative
-      https://drive.google.com/file/d/1R1iSBLyopMckcURRgQO5IjlN_A41Pokt/view?usp=sharing
-      https://drive.google.com/drive/folders/1uOIlViW2q4vl3UWgVd1G5vq5xwR7WZhV
+
+![affichage-sur-coopérative](/medias/affichage-sur-coopérative.jpg)
 
 ### le journal
-      Le journal permet de faire vivre les productions écrites et graphiques des enfants. Sa rédaction est confiée alternativement à chaque classe.
+
+Le journal permet de faire vivre les productions écrites et graphiques des enfants. Sa rédaction est confiée alternativement à chaque classe.
 
 ### le périscolaire
 
- https://drive.google.com/file/d/1g7SNQVHt77ijKMvfogFWIr11RUk2Wh94/view
-
+![périscolaire](/medias/perisco.jpg)
 
 ## les locaux
 
 ### actuels
-https://drive.google.com/file/d/1G9jiwP9Yc49gtBjZHI3NLZQiARnyslvh/view
-https://drive.google.com/file/d/1GQK5_OPk794cHLZb9QHRtzWnww9ZkdGi/view
+
+![cours-de-recreation](/medias/cours-de-recreation.jpg)
 
 ### La cour de récréation
-https://drive.google.com/file/d/1m2n3pe7qGzSXDDsp4_xUClPOCx5PukU9/view
-https://drive.google.com/file/d/1qV-Pl3fFEhzIElByULgZOqE09NhIRLhM/view
+
+![Poules](/medias/poules.jpg)
+
+![Cours de recreation basket](/medias/cours-de-recreation-basket.jpg)
 
 ### agrandissements
-https://drive.google.com/file/d/1gHoG_GnFdoYYfJjDZgPnsH0fvZuYstoR/view
-https://drive.google.com/file/d/1tj6uJhEA3N2fIBtHqAALqCjf7vs1Ki_0/view
 
 ### la nature 
 
@@ -135,8 +137,12 @@ https://drive.google.com/file/d/1tj6uJhEA3N2fIBtHqAALqCjf7vs1Ki_0/view
 
 ### zone d’ensauvagement
 
-https://drive.google.com/file/d/1iPZcDoj1c-8zueI7cDjuD8msdmKNEHo9/view
-https://drive.google.com/file/d/1sn6VYoy6vHVUXa-9YmRzp7LkziXTvHR1/view
-https://drive.google.com/file/d/1UrSIR5m5Ir1Gct7Mz2jWfjNO5mI9YRsg/view
-https://drive.google.com/file/d/1fwuSqrdJQsTznfq3aadbTQ5nW-j3B2UN/view
-https://drive.google.com/file/d/1EDi3yi_0_4vSTQNjvBGk3-inn3ZbKAp-/view
+![Hotel a inscete](/medias/hotel-a-inscete.jpg)
+
+![Zone d’ensauvagement 1](/medias/ensauvagement-1.jpg)
+
+![Zone d’ensauvagement 2](/medias/ensauvagement-2.jpg)
+
+![Zone d’ensauvagement 3](/medias/ensauvagement-3.jpg)
+
+![Zone d’ensauvagement 4](/medias/ensauvagement-4.jpg)
