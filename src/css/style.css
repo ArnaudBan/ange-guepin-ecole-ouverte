@@ -53,7 +53,7 @@ body {
       font-weight: bold;
       font-size: medium;
       text-decoration: none;
-      color: #333333; }
+      color: currentColor; }
       body nav .logo:hover {
         text-decoration: underline; }
     body nav .night-mode-btn {
@@ -136,3 +136,8 @@ body {
     border-style: solid;
     border-width: 1px;
     display: inline-block; }
+
+blockquote {
+  border-left: 4px solid currentColor;
+  padding-left: 20px;
+  margin-left: 0; }

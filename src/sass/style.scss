@@ -55,7 +55,7 @@ body {
   min-height: 100vh;
   display: grid;
   grid-template-rows: auto 1fr auto;
-  
+
 
   nav {
     padding: 0.75rem;
@@ -89,7 +89,7 @@ body {
       font-weight: bold;
       font-size: medium;
       text-decoration: none;
-      color: $font-light-theme;
+      color: currentColor;
       &:hover {
         text-decoration: underline;
       }
@@ -115,7 +115,7 @@ body {
     a {
       color: #14847E;
       text-decoration: none;
-      
+
       &:hover {
         text-decoration: underline;
       }
@@ -135,7 +135,7 @@ body {
     a {
       color: #14847E;
       text-decoration: none;
-      
+
       &:hover {
         text-decoration: underline;
       }
@@ -153,7 +153,7 @@ body {
     a:hover {
         text-decoration: none;
       }
-    
+
   }
 
   .blog-single {
@@ -209,7 +209,7 @@ body {
     font-size: 1.125rem;
     line-height: 1.75rem;
   }
-  
+
   .paragraph {
     text-align: justify;
   }
@@ -222,4 +222,10 @@ body {
     border-width: 1px;
     display: inline-block;
   }
+}
+
+blockquote{
+  border-left: 4px solid currentColor;
+  padding-left: 20px;
+  margin-left: 0;
 }
