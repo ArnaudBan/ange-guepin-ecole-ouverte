@@ -38,7 +38,7 @@ Au cours de la scolarité de nos élèves, nous avons constaté que certains par
 
 ## les parents dans l’école
 
-![les familles](/media/commentsimpliquer.png)
+![les familles](/medias/commentsimpliquer.png)
 
 A Ange Guepin, une place toute particulière est laissée aux parents. Il y a ainsi de multiples façons de s'investir pour l'école :
 * Apporter son aide aux enseignants : aider les élèves dans leurs recherches documentaires, proposer des ateliers, présenter son métier ou une passion,  participer à l'organisation des semaines à thème, accompagner les sorties scolaires, cuisiner des gateaux pour les supers, couvrir les livres de la bibliothèque, participer au journal de l'école)
@@ -57,7 +57,7 @@ Pour des infos, des renseignements ou des commentaires sur l’asso des Familles
 * les actions
 
 Pressage du jus de pommes
-![Jus de pomme](jus-de-pomme.jpg)
+![Jus de pomme](/medias/jus-de-pomme.jpg)
 
 * Malakoff
 * fête de l’école
