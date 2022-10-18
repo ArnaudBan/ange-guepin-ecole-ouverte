@@ -4,8 +4,9 @@ layout: "base.html"
 ---
 
 # La pédagogie Freinet à Ange Guépin
-https://drive.google.com/file/d/1ApgB4WkhsSilDNBPc2psv_b28skDDJZD/view
-https://stocad.ac-nantes.fr/index.php/s/TYkniZ9sem8Lxpr?dir=undefined&openfile=34945986
+
+![pedagogieFreinetAngeGuepij](/medias/pedagogieFreinetAngeGuepij.jpg)
+
 * Tâtonnement expérimental :
 droit à l'erreur, Recherches, Calcul vivant, Ateliers sciences
 * Expression Création Communication :
@@ -20,7 +21,9 @@ Conseils d'enfants (classes et école), Règles de vie élaborées avec les enfa
 Entraide, Tutorat, Echange de savoirs, Communication des émotions, Médiateurs enfants
 
 ## Quelques "invariants" de la pédagogie Freinet, sélectionnés par l'équipe de l'école Ange Guépin
-https://stocad.ac-nantes.fr/index.php/s/TYkniZ9sem8Lxpr?dir=undefined&openfile=34945987
+
+[Invariants Freinet sélectionnés par l'équipe d'Ange Guépin 2021](/medias/3. Invariants Freinet sélectionnés par l'équipe d'Ange Guépin 2021.pdf)
+
 https://drive.google.com/file/d/1RT3V8cHgtoCa4lKOX6AdWLxhf4ZdvxWM/view
 https://drive.google.com/file/d/1WfqH4okH6kDL55Iy5moMH9Lbn5-EQ3Je/view
 

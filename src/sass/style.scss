@@ -5,6 +5,8 @@ $background-light-theme: #ffffff;
 $font-dark-theme: #ffffff;
 $background-dark-theme: #333333;
 
+$site-width: 900 / 16 + 0em;
+
 .dark-theme {
   color: $font-dark-theme;
   background-color: $background-dark-theme;
@@ -58,7 +60,8 @@ body {
   nav {
     padding: 0.75rem;
     justify-content: space-between;
-    width: 50%;
+    width: 90%;
+    max-width: $site-width;
     margin-right: auto;
     margin-left: auto;
     display: flex;
@@ -85,6 +88,11 @@ body {
       margin: 0;
       font-weight: bold;
       font-size: medium;
+      text-decoration: none;
+      color: $font-light-theme;
+      &:hover {
+        text-decoration: underline;
+      }
     }
 
     .night-mode-btn {
@@ -99,7 +107,8 @@ body {
   }
 
   main {
-    width: 50%;
+    width: 90%;
+    max-width: $site-width;
     margin-left: auto;
     margin-right: auto;
 
@@ -170,7 +179,8 @@ body {
   footer {
     padding: 0.75rem;
     justify-content: space-between;
-    width: 50%;
+    width: 90%;
+    max-width: $site-width;
     margin-right: auto;
     margin-left: auto;
     display: flex;
@@ -211,21 +221,5 @@ body {
     border-style: solid;
     border-width: 1px;
     display: inline-block;
-  }
-}
-
-@media screen and (max-width: 1150px) {
-  body {
-    nav {
-      width: 90%;
-    }
-
-    main {
-      width: 90%;
-    }
-  
-    footer {
-      width: 90%;
-    }
   }
 }

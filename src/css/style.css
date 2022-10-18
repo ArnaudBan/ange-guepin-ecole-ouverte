@@ -30,7 +30,8 @@ body {
   body nav {
     padding: 0.75rem;
     justify-content: space-between;
-    width: 50%;
+    width: 90%;
+    max-width: 56.25em;
     margin-right: auto;
     margin-left: auto;
     display: flex;
@@ -50,7 +51,11 @@ body {
     body nav .logo {
       margin: 0;
       font-weight: bold;
-      font-size: medium; }
+      font-size: medium;
+      text-decoration: none;
+      color: #333333; }
+      body nav .logo:hover {
+        text-decoration: underline; }
     body nav .night-mode-btn {
       color: #333333;
       background-color: transparent;
@@ -58,7 +63,8 @@ body {
       body nav .night-mode-btn svg {
         fill: #333333; }
   body main {
-    width: 50%;
+    width: 90%;
+    max-width: 56.25em;
     margin-left: auto;
     margin-right: auto; }
     body main a {
@@ -100,7 +106,8 @@ body {
   body footer {
     padding: 0.75rem;
     justify-content: space-between;
-    width: 50%;
+    width: 90%;
+    max-width: 56.25em;
     margin-right: auto;
     margin-left: auto;
     display: flex;
@@ -129,11 +136,3 @@ body {
     border-style: solid;
     border-width: 1px;
     display: inline-block; }
-
-@media screen and (max-width: 1150px) {
-  body nav {
-    width: 90%; }
-  body main {
-    width: 90%; }
-  body footer {
-    width: 90%; } }
