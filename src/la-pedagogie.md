@@ -1,5 +1,5 @@
 ---
-title: "La prédagogie Freinet"
+title: "La pédagogie Freinet"
 layout: "base.html"
 ---
 
@@ -22,10 +22,9 @@ Entraide, Tutorat, Echange de savoirs, Communication des émotions, Médiateurs 
 
 ## Quelques "invariants" de la pédagogie Freinet, sélectionnés par l'équipe de l'école Ange Guépin
 
-[Invariants Freinet sélectionnés par l'équipe d'Ange Guépin 2021](/medias/3. Invariants Freinet sélectionnés par l'équipe d'Ange Guépin 2021.pdf)
+[Invariants Freinet sélectionnés par l'équipe d'Ange Guépin 2021](/medias/invariants-freinet-selectionnes-par-lequipe-dange-guepin-2021.pdf)
 
-https://drive.google.com/file/d/1RT3V8cHgtoCa4lKOX6AdWLxhf4ZdvxWM/view
-https://drive.google.com/file/d/1WfqH4okH6kDL55Iy5moMH9Lbn5-EQ3Je/view
+[Les invariants pédagogiques](https://drive.google.com/file/d/1RT3V8cHgtoCa4lKOX6AdWLxhf4ZdvxWM/view)
 
 Celestin Freinet, à la fin de sa vie, a rédigé 32 invariants, pour encore préciser l'essence de sa pédagogie, les valeurs scolaires de celle-ci. Nous en avons sélectionnés quelques-uns qui nous parlent particulièrement et que nous vous proposons ici à lecture.
 
@@ -45,13 +44,12 @@ Autres invariants majeurs :
 
 ## portes ouvertes
 
-Site de l’ICEM https://www.icem-pedagogie-freinet.org
+[Site de l’ICEM](https://www.icem-pedagogie-freinet.org)
 
 Ce site ressource contient de nombreuses informations sur la pédagogie Freinet 
 
 ## Divers
-https://drive.google.com/file/d/1Ft1hDwgFr3JjaQvXgJidKFJWaweCyGaG/view
+[Vidéo l'école buissonniere](https://drive.google.com/file/d/1Ft1hDwgFr3JjaQvXgJidKFJWaweCyGaG/view)
 
 ## paroles des enfants (actuels et anciens)
-Textes libres https://drive.google.com/file/d/1lKd2r4W2j1AzEF4c505OyXYOFthlO4v5/view
-
+[Textes libres](https://drive.google.com/file/d/1lKd2r4W2j1AzEF4c505OyXYOFthlO4v5/view)
