@@ -38,14 +38,13 @@ Au cours de la scolarité de nos élèves, nous avons constaté que certains par
 
 ## les parents dans l’école
 
-https://stocad.ac-nantes.fr/index.php/s/TYkniZ9sem8Lxpr?dir=undefined&openfile=34945989
-https://drive.google.com/file/d/1OmwrJ1762q-zV2a76Lz7ZWh8-S8PppIL/view
+![les familles](/media/commentsimpliquer.png)
 
-A Ange Guepin, une place toute particulière est laissée aux parents. Il y a ainsi de multiples façons de s'investir pour l'école :     
-- Apporter son aide aux enseignants : aider les élèves dans leurs recherches documentaires, proposer des ateliers, présenter son métier ou une passion,  participer à l'organisation des semaines à thème, accompagner les sorties scolaires, cuisiner des gateaux pour les supers, couvrir les livres de la bibliothèque, participer au journal de l'école)
-- Devenir représentant élu des parents (représenter les parents auprès de l'école et des institutions, 3 conseils d'école/ an)
-- Devenir membre actif de l'association des parents d'élèves (membre du bureau, participer à l'organisation des temps festifs et des différents projets de l'association)
-- Ou tout simplement en étant en lien avec l'équipe éducative et les autres parents d'élèves (participer aux temps d'échange,  discuter au portail, rejoindre le groupe whatsapp des parents d'élèves)
+A Ange Guepin, une place toute particulière est laissée aux parents. Il y a ainsi de multiples façons de s'investir pour l'école :
+* Apporter son aide aux enseignants : aider les élèves dans leurs recherches documentaires, proposer des ateliers, présenter son métier ou une passion,  participer à l'organisation des semaines à thème, accompagner les sorties scolaires, cuisiner des gateaux pour les supers, couvrir les livres de la bibliothèque, participer au journal de l'école)
+* Devenir représentant élu des parents (représenter les parents auprès de l'école et des institutions, 3 conseils d'école/ an)
+* Devenir membre actif de l'association des parents d'élèves (membre du bureau, participer à l'organisation des temps festifs et des différents projets de l'association)
+* Ou tout simplement en étant en lien avec l'équipe éducative et les autres parents d'élèves (participer aux temps d'échange,  discuter au portail, rejoindre le groupe whatsapp des parents d'élèves)
 
 L'école Ange Guepin, se veut vivante et ouverte sur le monde. Ainsi, l'implication de tous est essentielle à la vie de l'école : parents, grand-parents, intervenants, connaissances sont la bienvenue pour partager leurs savoirs et leur richesse aux enfants.
     
@@ -53,18 +52,12 @@ L'école Ange Guepin, se veut vivante et ouverte sur le monde. Ainsi, l'implicat
 
 Pour des infos, des renseignements ou des commentaires sur l’asso des Familles de l'école : parentsangeguepin@gmail.com
 
-Pour rejoindre la mailing de l’asso : https://framalistes.org/sympa/subscribe/parentsangeguepin20212022
-
-Pour rejoindre les échanges whatsapp de l'asso : https://chat.whatsapp.com/LIFNA0iHBnRBxPaR38hDGU
-
-Agenda des actualités : https://framagenda.org/apps/calendar/p/RCNybiMNJwWFcLT8
-
-Forum de discussion Discord discord:///invite-proxy/785961234708168786
-
 * Chantier des familles
+* 
 * les actions
 
-Pressage du jus de pommes https://drive.google.com/file/d/19BPBo_HtI5-CqIO4dkJuN4cPLYyesKuT/view
+Pressage du jus de pommes
+![Jus de pomme](jus-de-pomme.jpg)
 
 * Malakoff
 * fête de l’école
