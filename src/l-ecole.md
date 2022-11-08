@@ -148,16 +148,27 @@ Exemple de problématiques : nombre de poules/coqs à garder dans le poulailler,
 
 <h2 id="les-locaux-et-les-espaces-exterieurs">L’école : les locaux et les espaces extérieurs</h2>
 
+<div class="flex">
+
 ![Ecole Ange Guepin](/medias/ecole-ange-guepin.jpg)
+
 ![exterieur-rue](/medias/exterieur-rue.jpg)
+
 ![boite-a-livre](/medias/boite-a-livre.jpg)
+
+</div>
 
 ### Les classes
 
+<div class="flex">
+
 ![classe-sophie](/medias/classe-sophie.jpg)
+
 ![classe-sophie](/medias/classe-sophie-2.jpg)
 
-Classe de Sophie 
+</div>
+
+Classe de Sophie
 
 ### La cantine
 
@@ -165,8 +176,13 @@ Classe de Sophie
 
 ### La salle polyvalente
 
+<div class="flex">
+
 ![salle-polyvalente](/medias/salle-polyvalente.jpg)
+
 ![salle-polyvalente](/medias/salle-polyvalente-2.jpg)
+
+</div>
 
 ### La BCD
 
@@ -179,40 +195,72 @@ La BCD est la bibliothèque de l’école.
 
 L’instrumentarium est la salle de musique de l’école. Les enfants peuvent y préparer leurs productions pour le super. Une multitude d’instruments est à leur disposition.
 
+<div class="flex">
+
 ![L’instrumentarium](/medias/instrumentarium.jpg)
+
 ![L’instrumentarium](/medias/instrumentarium-2.jpg)
 
+</div>
 
 #### La cour de récréation
 
+<div class="flex">
+
 ![L’instrumentarium](/medias/cours-de-recreation-19.jpg)
+
 ![L’instrumentarium](/medias/cours-de-recreation-20.jpg)
+
+</div>
+<div class="flex">
+
 ![L’instrumentarium](/medias/cours-de-recreation-21.jpg)
+
 ![L’instrumentarium](/medias/cours-de-recreation-22.jpg)
+
+</div>
 
 ### La zone d’ensauvagement
 
 La zone d’ensauvagement est un espace de la cour de récréation, sans bitume, où les enfants peuvent construire des cabanes. Ils apprécient particulièrement cet espace où la nature reprend ses droits, et ils y ont accès régulièrement dans la semaine.
 
+<div class="flex">
+
 ![La zone d’ensauvagement](/medias/ensauvagement-2.jpg)
+
 ![La zone d’ensauvagement](/medias/ensauvagement-23.jpg)
+
 ![La zone d’ensauvagement](/medias/ensauvagement-24.jpg)
+
+</div>
 
 ### Le poulailler
 
 8 poules et 2 coqs vivent dans le poulailler de l’école. De la gestion du poulailler aux leçons de « maths au poulailler », il est l’occasion d’apprentissages très variés pour les enfants.
 
+<div class="flex">
+
 ![Le poulailler](/medias/poulailler-25.jpg)
+
 ![Le poulailler](/medias/poulailler.jpg)
+
 ![Le poulailler](/medias/poules.jpg)
+
+</div>
 
 ### Le parc de la Roche
 
 L’école dispose d’un accès direct sur le parc de la Roche. Les enfants profitent souvent de ce vaste espace vert, sur les temps scolaires comme périscolaires.
 
+<div class="flex">
+
 ![Le parc de la Roche](/medias/parc-de-la-roche.jpg)
+
 ![Le parc de la Roche](/medias/parc-de-la-roche-2.jpg)
+
 ![Le parc de la Roche](/medias/parc-de-la-roche-3.jpg)
+
+</div>
 
 La tyrolienne, plébiscitée par les enfants.
 

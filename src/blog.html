@@ -5,16 +5,17 @@ layout: "base.html"
 
 <div>
   <h1>Blog</h1>
-  
+
   <div class="blog-list">
 
     {% for post in collections.post reversed %}
-      <a href='{{post.url}}' class="blog-single">
-        <p class="title">{{ post.data.title }}</p>
-
-        <p><time datetime="{{ post.date }}">{{ post.date | postDate }}</time></p>
+      <article>
+        <h2><a href='{{post.url}}'>{{ post.data.title }}</a></h2>
         <p class="description">{{ post.data.description }}</p>
-      </a>
+        <footer>
+          Publié le: <time datetime="{{ post.date }}">{{ post.date | postDate }}</time>
+        </footer>
+      </article>
     {% endfor %}
   </div>
 </div>

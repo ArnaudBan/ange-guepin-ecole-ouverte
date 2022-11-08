@@ -8,11 +8,15 @@
   </head>
   <body id="nightModeDiv">
   {% include "components/navbar.html" %}
-  <div class="article-wrapper">
-    <h1>{{title}}</h1>
-    <p>Publié le: {{ date | postDate }}</p>
-    <article class="paragraph text-lg">{{ content }}</article>
-  </div>
+  <main class="container">
+    <article>
+      <header>
+        <h1>{{title}}</h1>
+        <p>Publié le: {{ date | postDate }}</p>
+      </header>
+      <div>{{ content }}</div>
+    </article>
+  </main>
   {% include "components/footer.html" %}
   <script src="{{ '/js/script.js' | url }}"></script>
 
