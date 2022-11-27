@@ -35,7 +35,7 @@ Emil Copilu est le gardien et veille sur les enfants et l’école tous les jour
 
 ![Equipe pedagogique 2022](/medias/equipe-pedagogique-2022.jpg)
 
-De gauche à droite : Lorraine, Emma, Nathalie, Périne, Sophie, Reno et Emil.
+De gauche à droite : Lorraine, Emma, Périne, Nathalie, Sophie, Reno et Emil.
 
 ### Une école ouverte
 
@@ -77,7 +77,6 @@ Comme dans toute école publique, certains points ne sont pas négociables :
 * se mettre au travail pour acquérir des compétences dans tous les domaines d’enseignement (la lecture, l’écriture, les mathématiques, les sciences, la technologie, l’art, l’activité physique), 
 * se mettre au travail pour s’entraîner et se perfectionner, 
 * accueillir les personnes extérieures (enseignants remplaçants, parents ou intervenants extérieurs) avec respect et ouverture. 
-* la liberté de circulation et la liberté d’expression.
 
 A l’école Ange Guépin, les apprentissages ne se limitent pas aux savoirs scolaires. Nous sommes engagés dans le respect des droits de l’enfant. Le projet pédagogique est centré sur la liberté de circulation et la liberté d’expression. Cela passe par l’apprentissage du respect de l’autre et de soi-même et du respect des locaux et du matériel.
 
