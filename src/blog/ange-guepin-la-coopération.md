@@ -31,5 +31,5 @@ La matinée file presque aussi vite qu’un dernier jour de vacances. Les CP ont
 
 Stephanie Bazylak
 
-Article publié dans Ouest France le 4 septembre 2023 et repris sur notre blog avec l'authorisation de la journaiste<br />
+Article publié dans Ouest France le 4 septembre 2023 et repris sur notre blog avec l'autorisation de la journaliste<br />
 [REPORTAGE. À l’école Freinet, on apprend à coopérer dès le premier jour](https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/reportage-a-lecole-freinet-on-apprend-a-cooperer-des-le-premier-jour-ad9e159c-4b2b-11ee-b9cf-046bec9b05b6)
