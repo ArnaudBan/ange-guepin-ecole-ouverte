@@ -30,3 +30,6 @@ C’est ce qui a convaincu le papa de Romi d’inscrire sa fille de cinq ans en 
 La matinée file presque aussi vite qu’un dernier jour de vacances. Les CP ont appris les messages clairs, qui encouragent les enfants à régler leurs petits différends entre eux avant de faire appel à un médiateur ou un adulte. Les CE1 et CE2 ont déjà noirci des pages pour raconter leurs vacances. « On a l’impression de ne pas avoir eu le temps de faire grand-chose mais on a fait énormément », sourit Emma.
 
 Stephanie Bazylak
+
+Article publié dans Ouest France le 4 septembre 2023 et repris sur notre blog avec l'authorisation de la journaiste<br />
+[REPORTAGE. À l’école Freinet, on apprend à coopérer dès le premier jour](https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/reportage-a-lecole-freinet-on-apprend-a-cooperer-des-le-premier-jour-ad9e159c-4b2b-11ee-b9cf-046bec9b05b6)
