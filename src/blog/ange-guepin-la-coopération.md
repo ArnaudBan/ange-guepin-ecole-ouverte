@@ -1,6 +1,6 @@
 ---
 title: L'école Ange et la coopération
-description: Un second poste en service civique est à pourvoir à l'école Ange Guépin.
+description: À l’école freinet, on apprend à coopérer dès le premier jour
 date: 2023-09-05
 ---
 
